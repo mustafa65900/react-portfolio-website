@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-website/static/css/main.4b760228.css",
+    "main.js": "/react-portfolio-website/static/js/main.8d173107.js",
+    "static/media/coverr.png": "/react-portfolio-website/static/media/coverr.9e5f1ff762be38c41067.png",
+    "static/media/pass.png": "/react-portfolio-website/static/media/pass.c0244eda7ba6e0eae35f.png",
+    "static/media/speech.png": "/react-portfolio-website/static/media/speech.d64375c7a19abd7dac82.png",
+    "static/media/calculator.png": "/react-portfolio-website/static/media/calculator.80ee000246ad731da2e4.png",
+    "static/media/count.png": "/react-portfolio-website/static/media/count.19d7bd79c488b082bf6e.png",
+    "static/media/number.png": "/react-portfolio-website/static/media/number.2c416c1c19a1e0ebfa77.png",
+    "static/media/pic.png": "/react-portfolio-website/static/media/pic.d4dc7ffdb80ba1cfccf9.png",
+    "static/media/resume.pdf": "/react-portfolio-website/static/media/resume.82f9643bb35473af33f1.pdf",
+    "static/media/game.png": "/react-portfolio-website/static/media/game.69579ebf20d26482b6cb.png",
+    "static/media/white.png": "/react-portfolio-website/static/media/white.131416b42c81615aeb5d.png",
+    "index.html": "/react-portfolio-website/index.html",
+    "main.4b760228.css.map": "/react-portfolio-website/static/css/main.4b760228.css.map",
+    "main.8d173107.js.map": "/react-portfolio-website/static/js/main.8d173107.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b760228.css",
+    "static/js/main.8d173107.js"
+  ]
+}
