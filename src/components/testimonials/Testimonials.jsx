@@ -18,7 +18,7 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: ava1,
-    name: "David Roger",
+    name: "Amit Mishra",
     review:
       "Mustafa is no ordinary 20 year old. In one summer, he taught himself to code and got a job. He is passionate to learn and study new technology with the mind set of never to stop and keep strieving unless and untill he achivied his goal!!",
   },
